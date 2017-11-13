@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.0.0"
+  }
+}

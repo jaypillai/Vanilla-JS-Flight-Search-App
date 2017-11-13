@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "payload": {
+    "origin": [
+      "Mayotte",
+      "Greece",
+      "Indonesia",
+      "Ireland",
+      "Philippines"
+    ],
+    "destination": [
+      "Russia",
+      "Ireland",
+      "Nigeria",
+      "Palestinian Territory",
+      "China"
+    ]
+  }
+}

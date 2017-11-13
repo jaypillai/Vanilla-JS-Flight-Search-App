@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "payload": {
+    "flightList": [
+      {
+        "origin": "Mayotte",
+        "destination": "Russia",
+        "fare": 629,
+        "airline": "Emirates",
+        "dateTime": 1509541531000,
+        "dateTimeString": "Wed, 01 Nov 2017 13:05:31 GMT"
+      },
+      {
+        "origin": "Greece",
+        "destination": "Ireland",
+        "fare": 8473,
+        "airline": "Air Asia",
+        "dateTime": 1509544884000,
+        "dateTimeString": "Wed, 01 Nov 2017 14:01:24 GMT"
+      },
+      {
+        "origin": "Indonesia",
+        "destination": "Nigeria",
+        "fare": 7626,
+        "airline": "Lufthansa",
+        "dateTime": 1509548104000,
+        "dateTimeString": "Wed, 01 Nov 2017 14:55:04 GMT"
+      },
+      {
+        "origin": "Ireland",
+        "destination": "Palestinian Territory",
+        "fare": 4226,
+        "airline": "Air India",
+        "dateTime": 1509554602000,
+        "dateTimeString": "Wed, 01 Nov 2017 16:43:22 GMT"
+      },
+      {
+        "origin": "Philippines",
+        "destination": "China",
+        "fare": 6763,
+        "airline": "Emirates",
+        "dateTime": 1509559316000,
+        "dateTimeString": "Wed, 01 Nov 2017 18:01:56 GMT"
+      }
+    ]
+  }
+}
